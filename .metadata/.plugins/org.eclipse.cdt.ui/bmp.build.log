@@ -1,0 +1,10 @@
+19:57:17 **** Incremental Build of configuration Debug for project bmp ****
+make -j8 all 
+arm-none-eabi-size   bmp.elf 
+   text	   data	    bss	    dec	    hex	filename
+  40588	    496	   3328	  44412	   ad7c	bmp.elf
+Finished building: default.size.stdout
+ 
+
+19:57:18 Build Finished. 0 errors, 0 warnings. (took 737ms)
+
